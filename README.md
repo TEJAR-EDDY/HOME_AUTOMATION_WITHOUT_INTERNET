@@ -1,6 +1,6 @@
 # Home Automation Without Internet to Run Electrical Devices
 
-A WiFi-based home automation system that operates without internet connectivity using NodeMCU ESP8266 and Soft Access Point (AP) protocol. This project also published in IEEE paper:https://ieeexplore.ieee.org/abstract/document/11007453
+A WiFi-based home automation system that operates without internet connectivity using NodeMCU ESP8266 and Soft Access Point (AP) protocol. My  project also published in IEEE paper:https://ieeexplore.ieee.org/abstract/document/11007453
 
 ## Overview
 
@@ -207,4 +207,5 @@ This project is part of my learning journey in embedded systems and IoT developm
 This project is open source and available under the [MIT License](LICENSE).
 
 **Note**: This project is designed for educational purposes and demonstrates practical implementation of IoT concepts without internet dependency. Always follow local electrical codes and safety regulations when working with mains electricity.
+
 
